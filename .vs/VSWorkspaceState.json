@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\payment-details",
+    "\\src\\app\\payment-details\\payment-detail",
+    "\\src\\app\\payment-details\\payment-detail-list",
+    "\\src\\app\\shared",
+    "\\src\\assets",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\tsconfig.json",
+  "PreviewInSolutionExplorer": false
+}
